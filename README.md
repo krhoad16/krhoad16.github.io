@@ -91,7 +91,7 @@
 
   <p>Learn more from <a href="https://www.nih.gov/" target="_blank">NIH Nanotechnology Research</a>.</p>
 
-  <p><a href="mailto:contact@nanobothealth.com">Contact Me</a> for more details.</p>
+  <p><a href="krhoad@purdue.edu">Contact Me</a> for more details.</p>
 
   <p><a href="nanobot_brochure.pdf" download>Download Our Nanobot Service Brochure (PDF)</a></p>
 
