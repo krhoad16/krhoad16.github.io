@@ -38,6 +38,8 @@
 
   <p><b>Welcome</b> to our revolutionary <span class="note">nanobot-powered</span> medical solutions page.</p>
 
+  <img src="nanobot.jpeg" alt="Nanobot with Red Blood Cells" width="400">
+
   <h2 class="highlight">Our Services</h2>
 
   <h3><u>1. Precision Internal Bleed Management</u></h3>
