@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html 
 <head>
-  <meta charset="UTF-8">
-  <title>Nanobot Healthcare Services</title>
+  <title>Eloheh | Nanobot Healthcare Services</title>
   <style>
     body {
-      font-family: 'Arial', sans-serif;
-      margin: 20px;
-      background-color: #f0f8ff;
+      font-family: 'Segoe UI', Tahoma , Geneva, sans-serif;
+      background-color: #eaf6f6;
+      color:#2b3e50;
+      margin: 40px;
+      
     }
     h1 {
       font-family: 'Georgia', serif;
@@ -36,8 +37,6 @@
   <h1><u>Nanobot Healthcare Services</u></h1>
 
   <p><b>Welcome</b> to our revolutionary <span class="note">nanobot-powered</span> medical solutions page.</p>
-
-  <img src="https://via.placeholder.com/600x300" alt="Nanobot in bloodstream" width="600">
 
   <h2 class="highlight">Our Services</h2>
 
@@ -92,15 +91,3 @@
   <p>Learn more from <a href="https://www.nih.gov/" target="_blank">NIH Nanotechnology Research</a>.</p>
 
   <p><a href="krhoad@purdue.edu">Contact Me</a> for more details.</p>
-
-  <p><a href="nanobot_brochure.pdf" download>Download Our Nanobot Service Brochure (PDF)</a></p>
-
-  <footer>
-    <script>
-      document.write("Page last modified: " + document.lastModified);
-    </script>
-  </footer>
-
-</body>
-</html>
-
