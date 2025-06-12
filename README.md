@@ -30,7 +30,7 @@
       font-size: 14px;
       color: #555;
     }
-  </style>
+  
 </head>
 <body>
 
@@ -88,6 +88,8 @@
     <li>Compatible with animal trials</li>
   </ul>
 
-  <p>Learn more from <a href="https://www.nih.gov/" target="_blank">NIH Nanotechnology Research</a>.</p>
+  </p>Curious about the application of Nanobots in healthcare services? 
+  Check this out<ahref="https://pmc.ncbi.nlm.nih.gov/articles/PMC6968591/#S0005"
 
+ 
   <p><a href="krhoad@purdue.edu">Contact Me</a> for more details.</p>
