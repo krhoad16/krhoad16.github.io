@@ -88,9 +88,6 @@
     <li>Compatible with animal trials</li>
   </ul>
 
-  </p>Curious about the application of Nanobots in healthcare services? 
-  Check this out
-  <ahref="https://pmc.ncbi.nlm.nih.gov/articles/PMC6968591/"
-
+  <p>Curious about the application of Nanobot Services? Check out this <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6968591/#S0005" target="_blank">article on nanobot services</a>.</p>
  
-  <p>href="krhoad@purdue.edu">Contact Me</a> for more details.</p>
+  <p><a href="krhoad@purdue.edu">Contact me</a> with questions</p>
