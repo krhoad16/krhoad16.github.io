@@ -89,7 +89,8 @@
   </ul>
 
   </p>Curious about the application of Nanobots in healthcare services? 
-  Check this out<ahref="https://pmc.ncbi.nlm.nih.gov/articles/PMC6968591/"
+  Check this out
+  <ahref="https://pmc.ncbi.nlm.nih.gov/articles/PMC6968591/"
 
  
-  <p><a href="krhoad@purdue.edu">Contact Me</a> for more details.</p>
+  <p>href="krhoad@purdue.edu">Contact Me</a> for more details.</p>
